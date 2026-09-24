@@ -13,7 +13,7 @@ My strongest area is backend engineering with Java and Spring Boot. I also work 
 | Backend | Java 21, Spring Boot 3, Spring Data, REST APIs, microservices |
 | Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
 | Messaging | Kafka, Confluent, event-driven architecture, idempotent processing |
-| Data | Oracle 19c, PostgreSQL, SQL, reconciliation workflows |
+| Data | Oracle 19c, PostgreSQL, SQL |
 | Delivery | Docker, Kubernetes, GitLab CI/CD, Argo CD, Jenkins |
 | Operations | Elastic, Kibana, production troubleshooting, root-cause analysis |
 
@@ -78,4 +78,4 @@ I am based in Alexandria, Egypt, and open to **remote, hybrid, or on-site Senior
 
 - Email: [m.elsaka0295@gmail.com](mailto:m.elsaka0295@gmail.com)
 - GitHub: [github.com/m-elsakka](https://github.com/m-elsakka)
-- LinkedIn: Add your preferred public LinkedIn URL
+- LinkedIn: [https://www.linkedin.com/in/mahm0ud-elsakka](https://www.linkedin.com/in/mahm0ud-elsakka)
